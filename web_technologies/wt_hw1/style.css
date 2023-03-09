@@ -1,0 +1,6 @@
+.block {
+    width: 260px;
+    background-color: rgb(241, 237, 181);
+    border: 2px solid rgb(128, 119, 119);
+    padding: 20px 10px 20px 30px;
+}
